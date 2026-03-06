@@ -21,6 +21,18 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 ## 💻 Tech Stack
 
 ### Languages
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/>](https://www.python.org/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" height="20"/>](https://www.php.net/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Frameworks & Libraries
+[<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="20"/>](https://www.djangoproject.com/) [<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="20"/>](https://flask.palletsprojects.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>](https://react.dev/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20"/>](https://getbootstrap.com/)
+
+### Databases
+[<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="20"/>](https://mariadb.org/) [<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="20"/>](https://www.mysql.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20"/>](https://www.mongodb.com/)
+
+### Tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/>](https://git-scm.com/) [<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="20"/>](https://github.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20"/>](https://code.visualstudio.com/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="20" height="20"/>](https://www.jetbrains.com/pycharm/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20" height="20"/>](https://www.postman.com/)
+
+### Languages
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/></a> <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/></a>
 
 ### Frameworks & Libraries
