@@ -46,7 +46,7 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 
 ### Frameworks & Libraries
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:20px">
-  <div style="text-align: center">
+  <div style="text-align: center background-color: #ffffff">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Django</sub></p>
   </div>
