@@ -8,6 +8,8 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 
 - 🎓 Bachelor of Engineering (Electronics & Telecommunication)
 - 💼 Full Stack Web Developer at XL Management Services & Consultants
+- 💡 Passionate about building scalable web applications
+- 🎯 Currently learning advanced React patterns and cloud deployment
 - 📧 swamivishwa0@gmail.com
 
 ## 🌐 Connect With Me
