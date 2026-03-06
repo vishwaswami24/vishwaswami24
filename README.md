@@ -23,7 +23,6 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 <div align="center">
 
 ### Languages
-<div style="gap:20px;margin-bottom:20px;max-width:500px;margin-left:auto;margin-right:auto">
   <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Python</sub></p>
@@ -44,7 +43,6 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>CSS3</sub></p>
   </div>
-</div>
 
 ### Frameworks & Libraries
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:20px">
