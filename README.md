@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vishwaswami24.vishwaswami24)
 
-Full Stack Web Developer specializing in Python, Django and React. I create scalable, user-friendly web applications with a strong foundation in both frontend and backend development.
+Full Stack Web Developer specializing in Python, Django, and React. I create scalable, user-friendly web applications with a strong foundation in both frontend and backend development.
 
 ## 🚀 About Me
 
@@ -24,23 +24,23 @@ Full Stack Web Developer specializing in Python, Django and React. I create scal
 
 ### Languages
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:20px">
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Python</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>JavaScript</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>PHP</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>HTML5</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>CSS3</sub></p>
   </div>
@@ -48,19 +48,19 @@ Full Stack Web Developer specializing in Python, Django and React. I create scal
 
 ### Frameworks & Libraries
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:20px">
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Django</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Flask</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>React</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Bootstrap</sub></p>
   </div>
@@ -68,15 +68,15 @@ Full Stack Web Developer specializing in Python, Django and React. I create scal
 
 ### Databases
 <div style="display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:20px">
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>MariaDB</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>MySQL</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>MongoDB</sub></p>
   </div>
@@ -84,23 +84,23 @@ Full Stack Web Developer specializing in Python, Django and React. I create scal
 
 ### Tools
 <div style="display:flex;justify-content:center;gap:20px;margin-bottom:20px">
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Git</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>GitHub</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>VS Code</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>PyCharm</sub></p>
   </div>
-  <div style="text-align:center">
+  <div style="text-align: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="60" style="background:white;padding:5px;border-radius:5px"/>
     <p style="margin:5px 0 0 0"><sub>Postman</sub></p>
   </div>
