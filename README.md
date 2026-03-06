@@ -39,7 +39,7 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 - Built and customized websites on SaaS platforms (Ivorey, Kajabi)
 - Collaborated with cross-functional teams to deliver client-focused solutions
 
-**Projects:**
+**Client Projects:**
 - [Aalayspa](https://aalasyaspa.life/)
 - [Wraps & Knots](https://www.wrapsandknots.com/)
 - [Shwasamitra Cough Experts](https://shwasamitracoughexperts.com/)
