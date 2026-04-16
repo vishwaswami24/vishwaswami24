@@ -24,7 +24,7 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 
 ### Languages
 <a href="https://www.python.org/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/></a><a href="https://www.php.net/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/></a><br>
 
 ### Frameworks & Libraries
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/></a>
