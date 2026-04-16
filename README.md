@@ -33,7 +33,9 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/></a>
 
 ### Databases
-| <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="30"/></a> | <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/></a> | <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a> |
+<a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="30"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/></a>
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a> |
 
 ### Tools
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/></a>
