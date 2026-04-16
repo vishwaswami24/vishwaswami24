@@ -30,19 +30,19 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 <a href="https://www.djangoproject.com/"><img align="left" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/></a>
 <a href="https://flask.palletsprojects.com/"><img align="left" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="30"/></a>
 <a href="https://react.dev/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/></a>
-<a href="https://getbootstrap.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/></a>
+<a href="https://getbootstrap.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/></a><br><br>
 
 ### Databases
 <a href="https://mariadb.org/"><img align="left" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="30"/></a>
 <a href="https://www.mysql.com/"><img align="left" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/></a>
-<a href="https://www.mongodb.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a>
+<a href="https://www.mongodb.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a><br><br>
 
 ### Tools
 <a href="https://git-scm.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/></a>
 <a href="https://github.com/"><img align="left" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="40"/></a>
 <a href="https://code.visualstudio.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/></a>
 <a href="https://www.jetbrains.com/pycharm/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30"/></a>
-<a href="https://www.postman.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30"/></a>
+<a href="https://www.postman.com/"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30"/></a><br><br>
 
 ## 🏢 Professional Experience
 
