@@ -58,10 +58,6 @@ Full Stack Web Developer specializing in Python, Django, and React. I create sca
 - [Rachael Tewano](https://www.rachaeltewano.com/)
 - [PhD Research Guidance](https://www.phdresearchguidance.com/)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwaswami24&theme=dark)](https://github.com/vishwaswami24)
-
 ---
 
 ⭐ Feel free to explore my repositories and reach out for collaboration opportunities!
